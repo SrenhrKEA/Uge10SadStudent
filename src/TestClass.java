@@ -6,8 +6,12 @@ public class TestClass {
     SadStudent ss = new SadStudent();
     ss.name = student;
 
-    ss.danceLikeCrazy();
     ss.ignoreTeacherInspirationalMoves();
+    ss.lookLikeAZombie();
+    ss.shoutLikeCrazy();
+    ss.shoutLikeCrazy();
+    ss.shoutLikeCrazy();
+    ss.shoutLikeCrazy();
 
     System.out.println(ss.name);
     System.out.println(ss.ExpectedExamGrade);
